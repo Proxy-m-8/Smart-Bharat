@@ -1,0 +1,6 @@
+{
+  "name": "Smart Bharat - AI Civic Companion",
+  "description": "A production-grade full-stack GenAI civic platform helping Indian citizens access government services, report public issues, auto-verify documents, and get real-time bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
